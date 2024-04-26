@@ -6,3 +6,8 @@
 *.iml
 out
 gen
+.vagrant
+.venv
+.db.sqlite3
+.ubuntu-bionic-18.04-cloudimg-console.log
+.Vagrantfile
