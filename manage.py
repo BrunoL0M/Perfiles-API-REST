@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# FUNCION PARA CORRER TAREAS ADMINS
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'profilesfromdjango.settings')
